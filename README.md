@@ -1,4 +1,4 @@
-# Portfolio
-Portfólio com códigos de R e Stata.  
+# Repositório 
+Repositório com códigos de R e Stata.  
 Website: https://alvaroroberio.github.io/
 E-mai: alvaro.roberiosa@gmail.com
